@@ -69,6 +69,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
+
     private void func_2() {
         int count_1, count_2;
         TextView textView_1 = findViewById(R.id.text_view);
